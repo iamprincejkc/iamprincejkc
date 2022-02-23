@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Jan Kevin Cadampog
 ![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+-----------------------------------------------------------------------------------------------------------------------
 
 Skills: C# / Xamarin Forms / JS / HTML / CSS / ASP / .Net / .Net Core
 
