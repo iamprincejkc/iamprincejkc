@@ -26,4 +26,6 @@ Skills: C# / Xamarin Forms / JS / HTML / CSS / ASP / .Net / .Net Core
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)](https://git.io/streak-stats)
 
+![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
+
 ![Profile views](https://gpvc.arturio.dev/iamprincejkc)  
