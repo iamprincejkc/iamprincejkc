@@ -1,3 +1,6 @@
+
+![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
+
 ### Hi there 👋, My name is Jan Kevin Cadampog
 ![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)
 
@@ -25,7 +28,5 @@ Skills: C# / Xamarin Forms / JS / HTML / CSS / ASP / .Net / .Net Core
 ![GitHub metrics](https://metrics.lecoq.io/iamprincejkc)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)](https://git.io/streak-stats)
-
-![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
 
 ![Profile views](https://gpvc.arturio.dev/iamprincejkc)  
