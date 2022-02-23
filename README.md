@@ -20,7 +20,7 @@ Skills: C# / Xamarin Forms / JS / HTML / CSS / ASP / .Net / .Net Core
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&bg_color=30,000000,434343&title_color=fff&text_color=fff&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&bg_color=30,000000,434343&title_color=fff&text_color=fff)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/iamprincejkc)  
 
