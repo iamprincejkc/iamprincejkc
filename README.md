@@ -18,12 +18,12 @@ Skills: C# / Xamarin Forms / JS / HTML / CSS / ASP / .Net / .Net Core
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&bg_color=30,000000,434343&title_color=fff&text_color=fff&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&bg_color=30,000000,434343&title_color=fff&text_color=fff)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iamprincejkc)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&bg_color=30,000000,434343)  
 
 ![Profile views](https://gpvc.arturio.dev/iamprincejkc)  
