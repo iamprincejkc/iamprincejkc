@@ -1,6 +1,6 @@
 
 ![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
-### Hi there 👋, My name is ![](https://jkcprofile.files.wordpress.com/2020/08/apple-touch-icons.png)Jan Kevin Cadampog
+### Hi there 👋, My name is [<img src='https://jkcprofile.files.wordpress.com/2020/08/apple-touch-icons.png' alt='github' height='40'>](https://github.com/iamprincejkc) Jan Kevin Cadampog
 ![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)
 
 -----------------------------------------------------------------------------------------------------------------------
