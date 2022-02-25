@@ -17,7 +17,7 @@
 </p>
 
  * 💎Frameworks and Libraries
-<p>h
+<p>
   <img src="ttps://img.shields.io/badge/Xamarin-0078D4?style=for-the-badge&logo=Xamarin&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
