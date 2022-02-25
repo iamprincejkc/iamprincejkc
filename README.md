@@ -1,8 +1,12 @@
 
 ![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif) 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> I'ᗰ 🅹ᗩᑎ 🅺EᐯIᑎ 🅲ᗩᗪᗩᗰᑭOG
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
-![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)
+<!--![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)-->
+<p align="center">
+  I'ᗰ 🅹ᗩᑎ 🅺EᐯIᑎ 🅲ᗩᗪᗩᗰᑭOG
+</p>	
+<img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/5a9c67dd35506edc7b8b2bbeeac48354434eda7c/waves.svg" width="100%" height="150">
 
 -----------------------------------------------------------------------------------------------------------------------
 
