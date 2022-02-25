@@ -71,6 +71,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)](https://git.io/streak-stats)
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/iamprincejkc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
+<!--![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)-->
+  
+<img src="https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif" width="100%" height="auto">
+</p>	
