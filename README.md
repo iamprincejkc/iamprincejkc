@@ -74,5 +74,5 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/iamprincejkc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <!--<img src="https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif" width="100%" height="150">-->
-<img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/03bbd4961c1982bb4671373a8249f784c2ab6584/footerwave.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/a9e9cb682177db7089b5e1960d96ac4c2c59bf39/footerwave.svg" width="100%" height="150">
 </p>	
