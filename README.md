@@ -1,10 +1,7 @@
 
 
-
 <!--![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)-->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif"/>
-  
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
   
 <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/c4eab0381d326aa18cfc8f27b3e427ea1ba8a7d0/jkc.svg" width="100%" height="150">
@@ -75,3 +72,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://www.buymeacoffee.com/iamprincejkc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif)
