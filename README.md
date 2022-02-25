@@ -1,6 +1,7 @@
 
 ![](https://user-images.githubusercontent.com/38730960/155287438-73103d01-8e27-466a-b776-8a10c91608ac.gif) 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🄸'🄼 🅹🄰🄽 🅺🄴🅅🄸🄽 🅲🄰🄳🄰🄼🄿🄾🄶
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> I'ᗰ 🅹ᗩᑎ 🅺EᐯIᑎ 🅲ᗩᗪᗩᗰᑭOG
+
 ![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)
 
 -----------------------------------------------------------------------------------------------------------------------
