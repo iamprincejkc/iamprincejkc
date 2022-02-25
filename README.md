@@ -40,11 +40,11 @@
 </p>
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning .Net MAUI 
-- 🤔 I’m looking for help with which path to take . . . 
-- 📫 How to reach me: [email] princejankevin@gmail.com 
-- ⚡ Fun fact:  -The Firefox logo isn't a fox 
+| - 🔭 I’m currently working on this page. |
+| - 🌱 I’m currently learning .Net MAUI. |
+| - 🤔 I’m looking for help with which path to take . . . |
+| - 📫 How to reach me: [email] princejankevin@gmail.com |
+| - ⚡ Fun fact:  -The Firefox logo isn't a fox |
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamprincejkc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/iamprincejkc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iamprincejkc//)  
