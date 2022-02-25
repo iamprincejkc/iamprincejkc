@@ -4,7 +4,7 @@
 
 <!--![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)-->
 <p align="center">
-  I'ᗰ 🅹ᗩᑎ 🅺EᐯIᑎ 🅲ᗩᗪᗩᗰᑭOG
+<img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/c4eab0381d326aa18cfc8f27b3e427ea1ba8a7d0/jkc.svg" width="100%" height="150">
 </p>	
 <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/5a9c67dd35506edc7b8b2bbeeac48354434eda7c/waves.svg" width="100%" height="150">
 
