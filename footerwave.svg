@@ -61,13 +61,13 @@ svg {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4478e3;
+  fill:#fa5d5d;
 }
 .drop {
-  fill: #4478e3;
-  xfill: #99000055;
+  fill: 	#fa5d5d;
+  xfill: 	#99ff2500;
   animation: drop 3.2s linear infinite normal;
-  stroke: #4478e3;
+  stroke:	#fa5d5d;
   stroke-width:0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
