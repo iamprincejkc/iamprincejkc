@@ -44,24 +44,9 @@
   </g -->
   
   <style>
-    @import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
-
-body {
-  font-family: Lato, sans-serif;
-  --col-deepblue: #4478e3;
-}
-footer {
-  width:100vw;
-  position:fixed;
-  bottom:0px
-}
-footer div {
-  background-color: var(--col-deepblue);
-  margin: -5px 0px 0px 0px;
-  padding:0px;
-  color: #fff;
-  text-align:center;
-}
+    *{
+        --col-deepblue: #4478e3;
+    }
 svg {
   width:100%;
   overflow:visible;
