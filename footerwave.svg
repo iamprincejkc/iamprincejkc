@@ -21,7 +21,7 @@
           repeatCount="indefinite" 
           fill="url(#grad1)" 
           attributeName="d" 
-          dur="4s"
+          dur="3s"
           attributeType="XML"
           values="
             M0 77 
