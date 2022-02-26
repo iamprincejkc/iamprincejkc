@@ -2,7 +2,7 @@
 
 <!--![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)-->
 <p align="center">
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+<img height="40" src="https://user-images.githubusercontent.com/38730960/155831380-6b196bd5-ca12-4fe7-aed8-8dddac8b0404.gif"/> 
   
 <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/c4eab0381d326aa18cfc8f27b3e427ea1ba8a7d0/jkc.svg" width="100%" height="150">
 </p>	
