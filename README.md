@@ -63,7 +63,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&title_color=fff&text_color=fff&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
