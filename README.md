@@ -65,7 +65,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamprincejkc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamprincejkc&theme=xcode&custom_title=J%20K%20C&hide_border=true)](https://github.com/iamprincejkc/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/iamprincejkc)  
 
