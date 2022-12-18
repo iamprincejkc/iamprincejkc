@@ -60,7 +60,10 @@
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440773-55cef6cd-d65a-4915-811a-c042c41b6206.gif' width='35' height='35'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440739-68f2db6c-cc3a-4ba5-bc81-e98b61450211.gif' width='35' height='35'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440748-021f6605-7885-4e3d-86f1-a70eece75935.gif' width='35' height='35'></a> 
+
+
 <p></p>
+<a href='https://github.com/iamprincejkc'><img src='https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/main/gdg2019.png' width='130' height='130'></a>
 <a href='https://github.com/iamprincejkc'><img src='https://developers.google.com/static/profile/badges/events/community/devfest/2022/attendee/badge.svg' width='130' height='130'></a>
 
 
