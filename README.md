@@ -67,14 +67,16 @@
 <p></p>
 <a href='https://github.com/iamprincejkc'><img src='https://developers.google.com/static/profile/badges/events/community/devfest/2022/attendee/badge.svg' width='130' height='130'></a>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamprincejkc&theme=react-dark&custom_title=J%20K%20C&hide_border=true)](https://github.com/iamprincejkc/github-readme-activity-graph)
-
-![GitHub metrics](https://metrics.lecoq.io/iamprincejkc)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)](https://git.io/streak-stats)
 
