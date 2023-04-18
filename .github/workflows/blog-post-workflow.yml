@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/blog-post-workflow@main
       - name: Pull in latest blog posts
-        uses: iamprincejkc/blog-post-workflow@master
+        uses: iamprincejkc/blog-post-workflow@main
         with:
           feed_list: "https://dev.to/feed/iamprincejkc"
         env:
