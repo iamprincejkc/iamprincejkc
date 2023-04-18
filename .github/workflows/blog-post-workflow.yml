@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/blog-post-workflow@main
       - name: Pull in latest blog posts
-        uses: iamprincejkc/blog-post-workflow@main
+        uses: iamprincejkc/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/iamprincejkc"
         env:
