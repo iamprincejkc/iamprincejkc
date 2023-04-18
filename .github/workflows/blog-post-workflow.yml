@@ -12,6 +12,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
       - name: Pull in latest blog posts
-        uses: iamprincejkc/blog-post-workflow@master
+        uses: iamprincejkc/blog-post-workflow@main
         with:
           feed_list: "https://dev.to/feed/iamprincejkc"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
