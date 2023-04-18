@@ -70,7 +70,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --
+<!-- BLOG-POST-LIST:END -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
