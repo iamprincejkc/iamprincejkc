@@ -58,7 +58,7 @@
 - ⚡ Fun fact:  -The Firefox logo isn't a fox
 
 
-<a href='https://github.com/iamprincejkc'><img src='https://cdn.simpleicons.org/github/white' alt='github' height='40'/></a>  <a href='https://dev.to/iamprincejkc'><img src='https://cdn.simpleicons.org/devdotto/white' alt='dev' height='40'/>  </a>  <a href='https://www.linkedin.com/in/iamprincejkc'><img src='https://cdn.simpleicons.org/linkedin/white' alt='linkedin' height='40'></a>  
+<a href='https://github.com/iamprincejkc'><img src='https://cdn.simpleicons.org/github/white' alt='github' height='70'/></a>  <a href='https://dev.to/iamprincejkc'><img src='https://cdn.simpleicons.org/devdotto/white' alt='dev' height='70'/>  </a>  <a href='https://www.linkedin.com/in/iamprincejkc'><img src='https://cdn.simpleicons.org/linkedin/white' alt='linkedin' height='70'></a>  
 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440721-acd91826-4366-41e3-bf3a-6879f0f72f2c.gif' width='40' height='40'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440728-9a7d8fea-95f8-40db-b49a-36a9793bb6fb.gif' width='40' height='40'></a> 
