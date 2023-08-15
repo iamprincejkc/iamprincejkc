@@ -70,9 +70,9 @@
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440748-021f6605-7885-4e3d-86f1-a70eece75935.gif' width='35' height='35'></a> 
 
 
-<p></p>
+
 <a href='https://github.com/iamprincejkc'><img src='https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/2974647cac59273df94e1c9439c6f8a5a976567a/devfest2019.svg' width='200'></a>
-<p></p>
+
 <a href='https://github.com/iamprincejkc'><img src='https://developers.google.com/static/profile/badges/events/community/devfest/2022/attendee/badge.svg' width='130' height='130'></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)[](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
