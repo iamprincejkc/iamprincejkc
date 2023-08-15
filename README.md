@@ -83,7 +83,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)
 
-![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/iamprincejkc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
