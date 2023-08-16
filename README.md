@@ -69,11 +69,10 @@
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440739-68f2db6c-cc3a-4ba5-bc81-e98b61450211.gif' width='35' height='35'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440748-021f6605-7885-4e3d-86f1-a70eece75935.gif' width='35' height='35'></a> 
 
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=iamprincejkc&theme=onedark" alt="Mohammed Ehab" /></p>
 
 <a href='https://github.com/iamprincejkc'><img src='https://developers.google.com/static/profile/badges/events/community/devfest/2022/attendee/badge.svg' width='130' height='130'></a> <a href='https://github.com/iamprincejkc'><img src='https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/2974647cac59273df94e1c9439c6f8a5a976567a/devfest2019.svg' width='200'></a> 
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@abcabf76-c6c9-4944-9737-f6a53a969efa/b7e748af-9737-4667-9cbd-954701615732.svg" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)![](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
 
