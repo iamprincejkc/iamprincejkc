@@ -55,7 +55,7 @@
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning .Net and Flutter. 
 - 🤔 I’m looking for help with which path to take . . . 
-- 📫 How to reach me: [email] princejankevin@gmail.com 
+<!-- - 📫 How to reach me: [email] princejankevin@gmail.com -->
 - ⚡ Fun fact:  -The Firefox logo isn't a fox
 
 
