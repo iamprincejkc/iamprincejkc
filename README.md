@@ -28,15 +28,18 @@
  hobbies: ["Gaming", "Tinkering", "Anime"]
 ```
 
-
-* 💎Programming languages:
+ ```yaml
+💎Programming languages:
+```
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
- * 💎Frameworks and Libraries
+ ```yaml
+💎Frameworks and Libraries:
+```
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Xamarin-0078D4?style=for-the-badge&logo=Xamarin&logoColor=white" />
@@ -46,7 +49,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-* 💎Tools
+ ```yaml
+💎Tools:
+```
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -54,7 +59,9 @@
   <img src="https://img.shields.io/badge/postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-* 💎Database
+ ```yaml
+💎Database:
+```
 <p>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=blue" />
@@ -62,18 +69,22 @@
   <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
 </p>
 
-* 💎Others
+ ```yaml
+💎Others:
+```
 <p>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+ ```yaml
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning .Net and Flutter. 
 - 🤔 I’m looking for help with which path to take . . . 
-<!-- - 📫 How to reach me: [email] princejankevin@gmail.com -->
-- ⚡ Fun fact:  -The Firefox logo isn't a fox
+- 📫 How to reach me [email] princejankevin@gmail.com 
+- ⚡ Fun fact The Firefox logo isn't a fox
+```
 
 
 <a href='https://github.com/iamprincejkc'><img src='https://cdn.simpleicons.org/github/white' alt='github' height='120'/></a>  <a href='https://dev.to/iamprincejkc'><img src='https://cdn.simpleicons.org/devdotto/white' alt='dev' height='120'/>  </a>  <a href='https://www.linkedin.com/'><img src='https://cdn.simpleicons.org/linkedin/white' alt='linkedin' height='120'></a>  
