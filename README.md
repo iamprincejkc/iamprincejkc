@@ -6,20 +6,18 @@
 
  ```yaml
  name: Jan Kevin
- located_in: Cookeville, Tennessee
- education: Aiming for Bachelors at Tennessee Tech University
- major: Computer Science
- concentration: Cybersecurity
+ located_in: Philippines
+ major: Infornmation Technology
+ concentration: Dev
  
  fields_of_interests:
    [
      "Web Development",
-     "Machine Learning",
      "UI/UX",
-     "DevOps"
+     "AI"
    ]
  
- hobbies: ["Gaming", "Tinkering", "Naps"]
+ hobbies: ["Gaming", "Tinkering", "Anime"]
 ```
 <!-- <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/c4eab0381d326aa18cfc8f27b3e427ea1ba8a7d0/jkc.svg" width="100%" height="150"/> -->
 
