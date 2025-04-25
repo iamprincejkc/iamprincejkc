@@ -29,7 +29,7 @@
 ```
 
  ```yaml
-💎Programming languages:
+💎 Programming languages:
 ```
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -38,7 +38,7 @@
 </p>
 
  ```yaml
-💎Frameworks and Libraries:
+💎 Frameworks and Libraries:
 ```
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -50,7 +50,7 @@
 </p>
 
  ```yaml
-💎Tools:
+💎 Tools:
 ```
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -60,7 +60,7 @@
 </p>
 
  ```yaml
-💎Database:
+💎 Database:
 ```
 <p>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
@@ -70,7 +70,7 @@
 </p>
 
  ```yaml
-💎Others:
+💎 Others:
 ```
 <p>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
