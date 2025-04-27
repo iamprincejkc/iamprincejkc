@@ -28,56 +28,87 @@
  hobbies: ["Gaming", "Tinkering", "Anime"]
 ```
 
- ```yaml
-💎 Programming languages:
-```
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+  <div align=center>
+  <sub>
+   Programming Languages
+  </small>
+  </sub>
+  </div>
+  <br>
+  
 
- ```yaml
-💎 Frameworks and Libraries:
-```
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xamarin-0078D4?style=for-the-badge&logo=Xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+  <div align=center>
+  <img src="https://skillicons.dev/icons?i=cs,dart,js&theme=dark" />
+  </div>
 
- ```yaml
-💎 Tools:
-```
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
 
- ```yaml
-💎 Database:
-```
-<p>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
-</p>
+  <br>
+  <br>
+  
+  <div align=center>
+  <sub>
+  Frameworks and Libraries
+  </small>
+  </sub>
+  </div>
+   
+  <br>
+   
+  <div align=center>
+  <img src="https://skillicons.dev/icons?i=dotnet,jquery,angular,flutter,bootstrap,materialui&theme=dark" />
+  </div>
 
- ```yaml
-💎 Others:
-```
-<p>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+  <br>
+  <br>
+  
+  <div align=center>
+  <sub>
+  Tools
+  </small>
+  </sub>
+  </div>
+   
+  <br>
+  
+  <div align=center>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,sublime&theme=dark" />
+  </div>
 
+  <br>
+  <br>
+  
+  <div align=center>
+  <sub>
+  Database
+  </small>
+  </sub>
+  </div>
+   
+  <br>
+  
+  <div align=center>
+  <img height='50' src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
+  </div>
+
+  <br>
+  <br>
+  
+  <div align=center>
+  <sub>
+  Others
+  </small>
+  </sub>
+  </div>
+   
+  <br>
+  
+  <div align=center>
+  <img src="https://skillicons.dev/icons?i=git,html,css&theme=dark" />
+  </div>
+
+  <br>
+  
  ```yaml
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning .Net and Flutter. 
@@ -86,9 +117,20 @@
 - ⚡ Fun fact The Firefox logo isn't a fox
 ```
 
+<br>
 
-<a href='https://github.com/iamprincejkc'><img src='https://cdn.simpleicons.org/github/white' alt='github' height='120'/></a>  <a href='https://dev.to/iamprincejkc'><img src='https://cdn.simpleicons.org/devdotto/white' alt='dev' height='120'/>  </a>  <a href='https://www.linkedin.com/'><img src='https://cdn.simpleicons.org/linkedin/white' alt='linkedin' height='120'></a>  
+  <div align=center>
+<a href='https://dev.to/iamprincejkc'><img src='https://skillicons.dev/icons?i=devto&theme=dark' alt='dev' height='100'/>  </a>  
+<a href='https://github.com/iamprincejkc'><img src='https://skillicons.dev/icons?i=github&theme=dark' alt='github' height='100'/></a>  
+<a href='https://www.linkedin.com/'><img src='https://skillicons.dev/icons?i=linkedin&theme=dark' alt='linkedin' height='100'></a>  
+  </div>
 
+
+
+<br>
+<br>
+
+  <div align=center>
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440721-acd91826-4366-41e3-bf3a-6879f0f72f2c.gif' width='40' height='40'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440728-9a7d8fea-95f8-40db-b49a-36a9793bb6fb.gif' width='40' height='40'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440733-3e89216e-6f1b-498c-b4f1-e4c43b5d96fa.gif' width='40' height='40'></a> 
@@ -97,23 +139,59 @@
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440773-55cef6cd-d65a-4915-811a-c042c41b6206.gif' width='35' height='35'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440739-68f2db6c-cc3a-4ba5-bc81-e98b61450211.gif' width='35' height='35'></a> 
 <a href='https://github.com/iamprincejkc'><img src='https://user-images.githubusercontent.com/38730960/155440748-021f6605-7885-4e3d-86f1-a70eece75935.gif' width='35' height='35'></a> 
+<br>
+<br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=iamprincejkc&theme=onedark&row=1&column=6&no-frame=true" alt="JKC" /></p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=iamprincejkc&theme=onedark&row=1&column=6&no-frame=true" alt="Mohammed Ehab" /></p>
-
+<br>
 <a href='https://github.com/iamprincejkc'><img src='https://developers.google.com/static/profile/badges/events/community/devfest/2022/attendee/badge.svg' width='130' height='130'></a> <a href='https://github.com/iamprincejkc'><img src='https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/2974647cac59273df94e1c9439c6f8a5a976567a/devfest2019.svg' width='200'></a> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&langs_count=8&layout=compact&theme=github_dark&title_color=fff&text_color=fff)![](https://github-readme-stats.vercel.app/api?username=iamprincejkc&theme=github_dark&show_icons=true)  
+  </div>
 
-![JKC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamprincejkc&theme=react-dark&custom_title=J%20K%20C&hide_border=true)
+<h2 align="center">Stats</h2>
+<p align=center>
+  <div align=center>
+    <a href="#">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=react&border_radius=10&border=61DAFB" />
+    </a>
+    <a href="#">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=iamprincejkc&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="#">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+    </a>
+  </div>
+  <br>
+  <br>
+  
+  
+<h2 align="center">Repositories </h2>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/iamprincejkc/iamprincejkc" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=iamprincejkc&theme=react&border_color=61dafb&border_radius=10.1"></a>
+  <a align="left" href="https://github.com/iamprincejkc/JWT_AUTH_LOGIN" title="Repository 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=JWT_AUTH_LOGIN&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/iamprincejkc/Flutter_ShopApp" title="Repository 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=Flutter_ShopApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/iamprincejkc/CleanApp.Api" title="Repository 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=CleanApp.Api&theme=react&border_color=61dafb&border_radius=10.1"></a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamprincejkc&theme=dark)
+  <br><br><br><br><br><br>
 
+  <h4 align="center">
+  <a href="https://github.com/iamprincejkc?tab=repositories" title="Show Repositories">Show More</a>
+</h4>
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/output/github-snake.svg" />
 </picture>
+-->
 
 ![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
