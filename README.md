@@ -185,6 +185,9 @@
   <a href="https://github.com/iamprincejkc?tab=repositories" title="Show Repositories">Show More</a>
 </h4>
 
+
+
+   <img width=300  align="center" src="https://github.com/iamprincejkc/iamprincejkc/blob/main/Coding%20The%20Matrix%20GIF.gif" />
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/output/github-snake-dark.svg" />
