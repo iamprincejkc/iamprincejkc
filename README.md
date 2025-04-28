@@ -55,7 +55,7 @@
   <br>
    
   <div align=center>
-  <img src="https://skillicons.dev/icons?i=dotnet,jquery,angular,flutter,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,jquery,angular,flutter,bootstrap,materialui,ts&theme=dark" />
   </div>
 
   <br>
