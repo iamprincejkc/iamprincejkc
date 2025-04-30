@@ -119,7 +119,7 @@
   <div align=center>
 <a href='https://dev.to/iamprincejkc'><img src='https://skillicons.dev/icons?i=devto&theme=dark' alt='dev' height='100'/>  </a>  
 <a href='https://github.com/iamprincejkc'><img src='https://skillicons.dev/icons?i=github&theme=dark' alt='github' height='100'/></a>  
-<a href='https://www.linkedin.com/'><img src='https://skillicons.dev/icons?i=linkedin&theme=dark' alt='linkedin' height='100'></a>  
+<a href='www.linkedin.com/in/iamprincejkc'><img src='https://skillicons.dev/icons?i=linkedin&theme=dark' alt='linkedin' height='100'></a>  
   </div>
 
 
