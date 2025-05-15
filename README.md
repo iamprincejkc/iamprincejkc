@@ -12,8 +12,8 @@
  ```yaml
  name: Jan Kevin
  located_in: Philippines
- major: Infornmation Technology
- concentration: Dev
+ bachelor: Infornmation Technology
+ concentration: .NET Dev
  
  fields_of_interests:
    [
