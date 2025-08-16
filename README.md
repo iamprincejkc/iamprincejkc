@@ -1,7 +1,7 @@
  
  <h1></h1>
 <!--![](https://user-images.githubusercontent.com/38730960/155279704-c707042b-8892-4562-81aa-5acd0f48ce65.png)-->
-<p align="center"> 
+<p align="center">  
 <img height="40" src="https://user-images.githubusercontent.com/38730960/155831380-6b196bd5-ca12-4fe7-aed8-8dddac8b0404.gif"/> 
 <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/c4eab0381d326aa18cfc8f27b3e427ea1ba8a7d0/jkc.svg" width="100%" height="150"/>
 </p>	
@@ -9,21 +9,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------
 
- ```yaml
- name: Jan Kevin
- located_in: Philippines
- bachelor: Infornmation Technology
- concentration: .NET Dev
- 
- fields_of_interests:
-   [
-     "Web Development",
-     "UI/UX",
-     "AI"
-   ]
- 
- hobbies: ["Gaming", "Tinkering", "Anime"]
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia&weight=100&size=25&duration=1000&pause=&color=36CFF7&vCenter=true&multiline=true&width=900&height=300&lines=%7B;%E2%80%82%22name%22%3A+%22Jan+Kevin%22%2C;%E2%80%82%22occupation%22%3A+%22Software+Developer%22%2C;%E2%80%82%22located_in%22%3A+%22Philippines%22%2C;%E2%80%82%22bachelor%22%3A+%22Information+Technology%22%2C;%E2%80%82%22fields_of_interests%22%3A+%5B%22Web+Development%22%2C+%22UI%2FUX%22%2C+%22AI%22%5D%2C;%E2%80%82%22hobbies%22%3A+%5B%22Gaming%22%2C+%22Tinkering%22%2C+%22Anime%22%5D;%7D)]()
+
 <div align="center">
  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jcy336e6umoa65pg75siec4cdq&cover_image=true&theme=default&show_offline=true&background_color=212830&interchange=true&bar_color=02f7db&bar_color_cover=true)](https://open.spotify.com/user/31jcy336e6umoa65pg75siec4cdq)
