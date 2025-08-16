@@ -92,17 +92,18 @@
 <h2 align="center">Stats</h2>
 <p align=center>
   <div align=center>
+     <a href="#">
+      <img width=260  align="center" src="https://github-readme-stats.vercel.app/api?username=iamprincejkc&show_icons=true&theme=react&border_color=61dafb&border_radius=0&rank_icon=github" />
+    </a>
     <a href="#">
 <!--       <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=iamprincejkc&theme=react&border_radius=60&border=61DAFB&background=25%2C8F000000%2C00000000&hide_border=true" /> -->
-      <img align="center"  src="https://github-readme-streak-stats-eight.vercel.app/?user=iamprincejkc&theme=react&border_radius=0&border=61DAFB" />
-    </a>
-    <a href="#">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamprincejkc&show_icons=true&theme=react&border_color=61dafb&border_radius=0&rank_icon=github" />
+      <img align="center" width=272   src="https://github-readme-streak-stats-eight.vercel.app/?user=iamprincejkc&theme=react&border_radius=0&border=61DAFB" />
     </a>
   </div>
-  <div align=center>
-    <a href="#">
-      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=0" />
+
+  <div align=center> 
+   <a href="#">
+      <img width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=0" />
     </a>
   </div>
   <br>
@@ -119,10 +120,6 @@
   <a align="center" href="https://github.com/iamprincejkc/CleanApp.Api" title="Repository 4"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=CleanApp.Api&theme=react&border_color=61dafb&border_radius=0"></a>
 
   <br><br><br><br>
-
-  <h4 align="center">
-  <a href="https://github.com/iamprincejkc?tab=repositories" title="Show Repositories">Show More</a>
-</h4>
 
 
 
