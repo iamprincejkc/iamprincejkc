@@ -160,7 +160,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=60" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincejkc&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=30" />
     </a>
   </div>
   <br>
@@ -169,13 +169,13 @@
   
 <h2 align="center">Repositories </h2>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/iamprincejkc/iamprincejkc" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=iamprincejkc&theme=react&border_color=61dafb&border_radius=60"></a>
-  <a align="center" href="https://github.com/iamprincejkc/JWT_AUTH_LOGIN" title="Repository 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=JWT_AUTH_LOGIN&theme=react&border_color=61dafb&border_radius=60"></a>
+  <a align="center" href="https://github.com/iamprincejkc/iamprincejkc" title="Repository 1"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=iamprincejkc&theme=react&border_color=61dafb&border_radius=30"></a>
+  <a align="center" href="https://github.com/iamprincejkc/JWT_AUTH_LOGIN" title="Repository 2"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=JWT_AUTH_LOGIN&theme=react&border_color=61dafb&border_radius=30"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/iamprincejkc/Flutter_ShopApp" title="Repository 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=Flutter_ShopApp&theme=react&border_color=61dafb&border_radius=60"></a>
-  <a align="center" href="https://github.com/iamprincejkc/CleanApp.Api" title="Repository 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=CleanApp.Api&theme=react&border_color=61dafb&border_radius=60"></a>
+  <a align="center" href="https://github.com/iamprincejkc/Flutter_ShopApp" title="Repository 3"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=Flutter_ShopApp&theme=react&border_color=61dafb&border_radius=30"></a>
+  <a align="center" href="https://github.com/iamprincejkc/CleanApp.Api" title="Repository 4"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=iamprincejkc&repo=CleanApp.Api&theme=react&border_color=61dafb&border_radius=30"></a>
 
   <br><br><br><br><br><br>
 
