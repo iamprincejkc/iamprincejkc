@@ -24,6 +24,13 @@
  
  hobbies: ["Gaming", "Tinkering", "Anime"]
 ```
+<div align="center">
+
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jcy336e6umoa65pg75siec4cdq&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=dark)
+
+</div>
+
+
 
   <div align=center>
   <sub>
