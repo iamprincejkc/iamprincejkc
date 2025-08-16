@@ -26,7 +26,7 @@
 ```
 <div align="center">
  
- ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jcy336e6umoa65pg75siec4cdq&cover_image=true&theme=default&show_offline=true&background_color=212830&interchange=true&bar_color=02f7db&bar_color_cover=false)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jcy336e6umoa65pg75siec4cdq&cover_image=true&theme=default&show_offline=true&background_color=212830&interchange=true&bar_color=02f7db&bar_color_cover=true)](https://open.spotify.com/user/31jcy336e6umoa65pg75siec4cdq)
 
 </div>
 
