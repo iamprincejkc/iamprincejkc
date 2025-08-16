@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia&weight=100&size=25&duration=1000&pause=&color=36CFF7&vCenter=true&multiline=true&width=900&height=300&lines=%7B;%E2%80%82%22name%22%3A+%22Jan+Kevin%22%2C;%E2%80%82%22occupation%22%3A+%22Software+Developer%22%2C;%E2%80%82%22located_in%22%3A+%22Philippines%22%2C;%E2%80%82%22bachelor%22%3A+%22Information+Technology%22%2C;%E2%80%82%22fields_of_interests%22%3A+%5B%22Web+Development%22%2C+%22UI%2FUX%22%2C+%22AI%22%5D%2C;%E2%80%82%22hobbies%22%3A+%5B%22Gaming%22%2C+%22Tinkering%22%2C+%22Anime%22%5D;%7D)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofia&weight=100&size=25&duration=2000&pause=&color=36CFF7&vCenter=true&multiline=true&width=900&height=300&lines=%7B;%E2%80%82%22name%22%3A+%22Jan+Kevin%22%2C;%E2%80%82%22occupation%22%3A+%22Software+Developer%22%2C;%E2%80%82%22located_in%22%3A+%22Philippines%22%2C;%E2%80%82%22bachelor%22%3A+%22Information+Technology%22%2C;%E2%80%82%22fields_of_interests%22%3A+%5B%22Web+Development%22%2C+%22UI%2FUX%22%2C+%22AI%22%5D%2C;%E2%80%82%22hobbies%22%3A+%5B%22Gaming%22%2C+%22Tinkering%22%2C+%22Anime%22%5D;%7D)]()
 
 <div align="center">
  
@@ -35,18 +35,11 @@
   </div>
 
   <br>
+  <br>
   
- ```yaml
-- 🔭 I’m currently working on a revamp project. 
-- 🌱 I’m currently learning .Net and Flutter. 
-- 🤔 I’m looking for help with which path to take . . . 
-- 📫 How to reach me [email] princejankevin@gmail.com 
-- ⚡ Fun fact The Firefox logo isn't a fox
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&weight=100&size=18&duration=2000&pause=&color=36CFF7&background=262C3600&vCenter=true&multiline=true&width=900&height=150&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+a+revamp+project;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+.Net+and+Flutter;-+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+which+path+to+take+;-+%F0%9F%93%AB+How+to+reach+me+%5Bemail%5D+princejankevin%40gmail.com;-+%E2%9A%A1+Fun+fact+The+Firefox+logo+isn't+a+fox)](https://git.io/typing-svg)
 
-<br>
-
-  <div align=center>
+<div align=center>
 <a href='https://dev.to/iamprincejkc'><img src='https://skillicons.dev/icons?i=devto&theme=dark' alt='dev' height='100'/></a>  
 <a href='https://github.com/iamprincejkc'><img src='https://skillicons.dev/icons?i=github&theme=dark' alt='github' height='100'/></a>  
 <a href='https://www.linkedin.com/in/iamprincejkc'><img src='https://skillicons.dev/icons?i=linkedin&theme=dark' alt='linkedin' height='100'></a>  
