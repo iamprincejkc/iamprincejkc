@@ -30,85 +30,21 @@
 
 </div>
 
-
-
-  <div align=center>
-  <sub>
-   Programming Languages
-  </small>
-  </sub>
-  </div>
-  <br>
   
 
   <div align=center>
-  <img src="https://skillicons.dev/icons?i=cs,dart,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,git,html,css,js,mongodb,dart&theme=dark" />
   </div>
 
-
-  <br>
-  <br>
-  
-  <div align=center>
-  <sub>
-  Frameworks and Libraries
-  </small>
-  </sub>
-  </div>
-   
-  <br>
    
   <div align=center>
   <img src="https://skillicons.dev/icons?i=dotnet,jquery,angular,flutter,bootstrap,materialui,ts&theme=dark" />
   </div>
 
-  <br>
-  <br>
-  
-  <div align=center>
-  <sub>
-  Tools
-  </small>
-  </sub>
-  </div>
-   
-  <br>
-  
-  <div align=center>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,sublime&theme=dark" />
-  </div>
-
-  <br>
-  <br>
-  
-  <div align=center>
-  <sub>
-  Database
-  </small>
-  </sub>
-  </div>
-   
-  <br>
   
   <div align=center>
   <img height='50' src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
-  </div>
-
-  <br>
-  <br>
-  
-  <div align=center>
-  <sub>
-  Others
-  </small>
-  </sub>
-  </div>
-   
-  <br>
-  
-  <div align=center>
-  <img src="https://skillicons.dev/icons?i=git,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,sqlite,postman,sublime&theme=dark" />
   </div>
 
   <br>
