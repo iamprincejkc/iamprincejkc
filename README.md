@@ -50,7 +50,7 @@
   <br>
   
  ```yaml
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a revamp project. 
 - 🌱 I’m currently learning .Net and Flutter. 
 - 🤔 I’m looking for help with which path to take . . . 
 - 📫 How to reach me [email] princejankevin@gmail.com 
