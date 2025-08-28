@@ -37,7 +37,7 @@
   <br>
   <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&weight=100&size=18&duration=2000&pause=&color=36CFF7&background=262C3600&vCenter=true&multiline=true&width=900&height=150&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+a+revamp+project;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+.Net+and+Flutter;-+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+which+path+to+take+;-+%F0%9F%93%AB+How+to+reach+me+%5Bemail%5D+princejankevin%40gmail.com;-+%E2%9A%A1+Fun+fact+The+Firefox+logo+isn't+a+fox)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arizonia&weight=100&size=18&duration=2000&pause=&color=36CFF7&background=262C3600&vCenter=true&multiline=true&width=900&height=150&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+a+revamp+project;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+.Net+and+AI_Workflows;-+%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+which+path+to+take+;-+%F0%9F%93%AB+How+to+reach+me+%5Bemail%5D+princejankevin%40gmail.com;-+%E2%9A%A1+Fun+fact+The+Firefox+logo+isn't+a+fox)](https://git.io/typing-svg)
 
 <div align=center>
 <a href='https://dev.to/iamprincejkc'><img src='https://skillicons.dev/icons?i=devto&theme=dark' alt='dev' height='100'/></a>  
