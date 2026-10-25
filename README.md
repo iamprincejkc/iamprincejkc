@@ -104,6 +104,7 @@
 
 
    <img width=300  align="center" src="https://github.com/iamprincejkc/iamprincejkc/blob/main/Coding%20The%20Matrix%20GIF.gif" />
+   <img src="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/b94b377223546a2a75e9170ed6909d4b47411acc/github-contribution-grid-snake-dark.svg" width="100%" height="150">
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamprincejkc/iamprincejkc/output/github-snake-dark.svg" />
